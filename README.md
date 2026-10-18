@@ -92,6 +92,7 @@ Using anon-friendly payment options and a VPN to mask your IP is good practice w
 | **[OpenRouter](https://openrouter.ai/)** | Web chat and API. [Zero data retention](https://openrouter.ai/docs/guides/features/zdr) filter available.   | CC, Crypto (CoinBase commerce)| https://openrouter.ai/api/v1/|
 | **[Redpill AI](https://www.redpill.ai)** | Web chat and API routing for frontier models. Uses TEE. Same operator as Phala Network.  | CC, Crypto (CoinBase commerce)|  https://api.redpill.ai/v1/|
 | **[PPQ.AI](https://ppq.ai/)** | Web chat and API. | CC, Monero / Bitcoin / crypto direct | https://api.ppq.ai|
+| **[Obscurify.ai](https://obscurify.ai/)** | Web chat and API for 200+ models. No mandatory sign up; accounts need no email. Text requests use zero-data-retention routes only. Tor onion service. API on every plan with a positive balance. Closed source. | CC, Monero / Bitcoin / Lightning direct (self-hosted BTCPay) | https://obscurify.ai/v1|
 
 #### Get started with routers
 
